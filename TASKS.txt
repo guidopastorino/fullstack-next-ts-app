@@ -1,0 +1,14 @@
+Friends section 
+File/video upload
+Posts
+  - Save
+  - Comment / read comments (as threads)
+  - Repost and quote posts
+Search
+  - Users
+  - Hashtags
+  - Posts
+Light/Dark mode
+Custom feed (normal/friends/starred people)
+Redirect (Protected URLS)
+JWT (cookies and session managment) - Logout user after 1 day inactive 
